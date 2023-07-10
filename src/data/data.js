@@ -48,6 +48,24 @@ icons : [
     
 ],
 
+voices:[
+    {
+        name:'Home',
+    },
+    {
+        name:'Pages', 
+    },
+    {
+        name:'Course Formats', 
+    },
+    {
+        name:'Courses',
+    },
+    {
+        name:'Demos',
+    }
+],
+
 features:[
     {
         title:'Business',
