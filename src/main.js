@@ -25,8 +25,10 @@ import { faBasketball } from '@fortawesome/free-solid-svg-icons'
 import { faBullhorn } from '@fortawesome/free-solid-svg-icons'
 import { faBriefcase } from '@fortawesome/free-solid-svg-icons'
 import { faUser } from '@fortawesome/free-solid-svg-icons'
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
+import { faClock } from '@fortawesome/free-regular-svg-icons'
 
-library.add(faBullhorn ,faUser,faBriefcase ,faSkype , faPinterest , faBasketball ,faFacebook,faInstagram , faTwitter,faLinkedin,faGooglePlus,faYoutube,faChartLine,faPalette,faGear,faFaceSmile ,faWallet )
+library.add( faClock , faMagnifyingGlass, faBullhorn ,faUser,faBriefcase ,faSkype , faPinterest , faBasketball ,faFacebook,faInstagram , faTwitter,faLinkedin,faGooglePlus,faYoutube,faChartLine,faPalette,faGear,faFaceSmile ,faWallet )
 
 createApp(App)
 .component('fontAwesomeIcon', FontAwesomeIcon)
