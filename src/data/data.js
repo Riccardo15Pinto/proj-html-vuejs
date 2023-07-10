@@ -45,6 +45,7 @@ icons : [
         typeIcon : 'other',
         nameIcon: 'fa-solid fa-basketball',
     },
+    
 ],
 
 features:[
