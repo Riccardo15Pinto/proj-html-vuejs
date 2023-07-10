@@ -364,6 +364,39 @@ courses:[
 
 
 
+],
+
+categories:[
+    {
+        name:'Business',
+    },
+    {
+        name:'Design',
+    },
+    {
+        name:'Development',
+    },
+    {
+        name:'Health & Fitness',
+    },
+    {
+        name:'It & Software',
+    },
+    {
+        name:'Lifestyle',
+    },
+    {
+        name:'Marketing',
+    },
+    {
+        name:'Music',
+    },
+    {
+        name:'Office Productivity',
+    },
+    {
+        name:'Photography',
+    },
 ]
 
 })
