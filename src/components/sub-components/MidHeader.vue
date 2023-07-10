@@ -14,6 +14,12 @@ export default {
 }
 </script>
 
-<template></template>
+<template>
+    <section>
 
-<style lang="scss"></style>
+    </section>
+</template>
+
+<style lang="scss">
+@use '../../scss/partials/vars' as *;
+</style>
