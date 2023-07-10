@@ -85,5 +85,18 @@ testimonials:[
     imagePath:'micah-296507-unsplash-1-copy-1-1920x700-1-1917x699.jpg',
     description:'The response to your MasterStudy has been really overwhelming! Those who participated in the workshop are spreading the word here on campus and the “buzz” is on. The VP of Instruction wants you to come back! Her goal is to have more faculty trained. She also wants to attend a workshop herself. Our President told me Masterstudy needs to be the cornerstone of our success program.”'
 },
+],
+
+activities:[
+    {
+        title:'Become Udemy Affiliate',
+        text:'Import Udemy courses to your website and earn commission on every sale!',
+        image:'valentine.jpg'
+    },
+    {
+        title:'Udemy Affiliate Sales',
+        text:'Monetize your audience and attract new customers with Udemy',
+        image:'slide-1.jpg'
+    }
 ]
 })
