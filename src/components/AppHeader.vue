@@ -10,4 +10,6 @@ export default {
 
 <template></template>
 
-<style lang="scss"></style>
+<style lang="scss">
+@use '../scss/partials/vars' as *;
+</style>
