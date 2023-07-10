@@ -1,9 +1,10 @@
 <script>
 import { store } from '../data/data'
 import TopHeader from '../components/sub-components/TopHeader.vue'
-import MidHeader from '../components/sub-components/MidHeader.vue'
+import MidHeader from '../components/sub-components/MidHeader.vue';
+import BottomHeader from '../components/sub-components/BottomHeader.vue'
 export default {
-    components: { TopHeader, MidHeader },
+    components: { TopHeader, MidHeader, BottomHeader },
     data() {
         return store
     }
@@ -15,6 +16,7 @@ export default {
     <header>
         <TopHeader />
         <MidHeader />
+        <BottomHeader />
     </header>
 </template>
 
