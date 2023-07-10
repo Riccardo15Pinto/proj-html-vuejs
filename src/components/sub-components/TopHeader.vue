@@ -46,7 +46,7 @@ export default {
     </section>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @use '../../scss/partials/vars' as *;
 
 section {
