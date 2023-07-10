@@ -77,7 +77,7 @@ section {
                 display: flex;
                 align-items: center;
                 list-style-type: none;
-                margin-right: 30px;
+                margin-left: 30px;
 
                 a {
                     text-decoration: none;
