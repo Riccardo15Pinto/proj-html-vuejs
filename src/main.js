@@ -27,8 +27,9 @@ import { faBriefcase } from '@fortawesome/free-solid-svg-icons'
 import { faUser } from '@fortawesome/free-solid-svg-icons'
 import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
 import { faClock } from '@fortawesome/free-regular-svg-icons'
+import { faHeart } from '@fortawesome/free-regular-svg-icons'
 
-library.add( faClock , faMagnifyingGlass, faBullhorn ,faUser,faBriefcase ,faSkype , faPinterest , faBasketball ,faFacebook,faInstagram , faTwitter,faLinkedin,faGooglePlus,faYoutube,faChartLine,faPalette,faGear,faFaceSmile ,faWallet )
+library.add( faHeart , faClock , faMagnifyingGlass, faBullhorn ,faUser,faBriefcase ,faSkype , faPinterest , faBasketball ,faFacebook,faInstagram , faTwitter,faLinkedin,faGooglePlus,faYoutube,faChartLine,faPalette,faGear,faFaceSmile ,faWallet )
 
 createApp(App)
 .component('fontAwesomeIcon', FontAwesomeIcon)
