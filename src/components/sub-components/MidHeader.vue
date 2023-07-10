@@ -177,6 +177,16 @@ export default {
         font-weight: bolder;
         border: none;
         margin: 0 20px;
+        transition: color ease-in-out 3s;
+        background: linear-gradient(to right, $blue 50%, $red 50%);
+        background-size: 200% 100%;
+        background-position: right bottom;
+        transition: all .5s ease-out;
+        cursor: pointer;
+
+        &:hover {
+            background-position: left bottom;
+        }
     }
 
     .log {
