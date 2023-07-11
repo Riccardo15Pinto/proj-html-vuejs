@@ -21,6 +21,7 @@ export default {
             <figure>
                 <img :src="getImageUrl('footer-logo2x-50x56.png')" alt="">
             </figure>
+            <p>Copyright © 2022.<a href="#">MasterStudy </a> Theme by <a href="#">StylemixThemes</a></p>
         </div>
     </section>
 </template>
@@ -34,6 +35,22 @@ section {
     .container {
         width: $container;
         margin: 0 auto;
+        color: $white;
+        display: flex;
+        align-items: center;
+        padding: 20px 0;
+
+        figure {
+            width: 40px;
+        }
+
+        p {
+            padding-left: 10px;
+
+            a {
+                color: $white;
+            }
+        }
 
     }
 }
