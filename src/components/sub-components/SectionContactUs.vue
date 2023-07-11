@@ -11,11 +11,21 @@ export default {
 
 <template>
     <section>
-        <ContactCard />
-        <ContactCard />
+        <ContactCard v-for="(contact, i) in contacts" :item="contact" />
     </section>
 </template>
 
 <style lang="scss" scoped>
 @use '../../scss/partials/vars' as *;
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+
+    .card {
+        flex-basis: 48%;
+    }
+}
 </style>
