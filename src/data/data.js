@@ -399,7 +399,7 @@ categories:[
     },
 ],
 
-contact:[
+contacts:[
     {
         title:'Become an Instructor',
         description:'Teach what you love. Masterstudy gives you the tools to create a course.',
