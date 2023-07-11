@@ -5,8 +5,9 @@ import SectionInfo from '../components/sub-components/SectionInfo.vue'
 import SectionNewsletter from '../components/sub-components/SectionNewsletter.vue'
 import SectionContactUs from '../components/sub-components/SectionContactUs.vue'
 import DevelopmentCourses from './sub-components/DevelopmentCourses.vue'
+import RecentCourses from './sub-components/RecentCourses.vue'
 export default {
-    components: { TopJumbo, BottomJumbo, SectionInfo, SectionNewsletter, SectionContactUs, DevelopmentCourses },
+    components: { TopJumbo, BottomJumbo, SectionInfo, SectionNewsletter, SectionContactUs, DevelopmentCourses, RecentCourses },
     data() {
         return {
 
@@ -20,6 +21,7 @@ export default {
         <TopJumbo />
         <DevelopmentCourses />
         <SectionInfo />
+        <RecentCourses />
         <SectionNewsletter />
         <SectionContactUs />
         <BottomJumbo />
