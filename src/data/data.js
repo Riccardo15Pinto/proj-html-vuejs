@@ -272,21 +272,6 @@ courses:[
     },
     {
         id:'11',
-        popular:false,
-        imagePathM:'951684_9c1a_2-272x161.jpg',
-        imagePathL:'951684_9c1a_2-544x322.jpg',
-        title:'Xamarian Forms: Build Native Cross-platform Apps with C#',
-        category:'Development',
-        average:'4',
-        actualPrice:'$95.00',
-        price:'$189.99',
-        time:'7.5 total Hours',
-        teacher:'Mosh Hamedani',
-        teacherImage:'4387876_78bc.jpg',
-        description:'Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...'
-    },
-    {
-        id:'12',
         popular:true,
         imagePathM:'1208228_d61c_4-272x161.jpg',
         imagePathL:'1208228_d61c_4-544x322.jpg',
@@ -301,7 +286,7 @@ courses:[
         description:'The plugin is a full package of innovative features. The system includes a powerful admin panel and course builder, messaging system, advanced quiz...'
     },
     {
-        id:'13',
+        id:'12',
         popular:false,
         imagePathM:'1253188_58f7_2-272x161.jpg',
         imagePathL:'1253188_58f7_2-544x322.jpg',
@@ -316,7 +301,7 @@ courses:[
         description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     },
     {
-        id:'14',
+        id:'13',
         popular:true,
         imagePathM:'1414956_d944_15-272x161.jpg',
         imagePathL:'1414956_d944_15-544x322.jpg',
@@ -331,7 +316,7 @@ courses:[
         description:'Whenever it comes to individual instructors, language or coaching centers, universities, and eLearning platforms'
     },
     {
-        id:'15',
+        id:'14',
         popular:true,
         imagePathM:'1561458_7f3b-272x161.jpg',
         imagePathL:'1561458_7f3b-544x322.jpg',
@@ -346,7 +331,7 @@ courses:[
         description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     }, 
     {
-        id:'16',
+        id:'15',
         popular:true,
         imagePathM:'1776542_30b1-272x161.jpg',
         imagePathL:'1776542_30b1-544x322.jpg',
@@ -359,6 +344,21 @@ courses:[
         teacher:'Marcin Stasko',
         teacherImage:'4387876_78bc.jpg',
         description:'Among those features are gamification tools like points reward system, trial and group courses, assignments and lesson live streaming. You can lear...'
+    },
+    {
+        id:'16',
+        popular:true,
+        imagePathM:'1561458_7f3b-272x161.jpg',
+        imagePathL:'1561458_7f3b-544x322.jpg',
+        title:'CSS - The Complete Guide 2020 (incl. Flexbox,Grid % Sass)',
+        category:'Design',
+        average:'5',
+        actualPrice:'$100.00',
+        price:'$199.99',
+        time:'23 total hours',
+        teacher:'Academind by Maximilian Schwarzmüller',
+        teacherImage:'4387876_78bc.jpg',
+        description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     },
 
 
