@@ -6,7 +6,7 @@ export default {
         }
     },
     props: {
-        item: 'object',
+        item: 'Array',
     },
     computed: {
         currentAverage() {
@@ -19,7 +19,8 @@ export default {
             const url = new URL(`../../img/${target}`, import.meta.url);
             return url.href
         }
-    }
+    },
+
 }
 
 </script>
@@ -89,6 +90,7 @@ export default {
 .card {
     border: 1px solid $darkgrey;
     width: 300px;
+    height: 350px;
     position: relative;
 
     figure {
@@ -140,7 +142,7 @@ export default {
         top: 0;
         background-color: $white;
         height: 100%;
-        padding: 20px;
+        padding: 15px;
 
         .author {
             display: flex;
@@ -170,7 +172,7 @@ export default {
 
             p {
                 color: $darkgrey;
-                line-height: 20px;
+                line-height: 15px;
                 font-size: 0.9rem;
                 font-weight: lighter;
             }
@@ -187,7 +189,7 @@ export default {
 
         .footer-card {
             button {
-                padding: 20px 40px;
+                padding: 10px;
                 background-color: $red;
                 color: white;
                 font-weight: bolder;
