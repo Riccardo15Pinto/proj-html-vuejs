@@ -6,13 +6,6 @@ export default {
     data() {
         return store
     },
-
-    methods: {
-        getImageUrl(target) {
-            const url = new URL(`../../img/${target}`, import.meta.url);
-            return url.href
-        }
-    }
 }
 </script>
 
@@ -23,7 +16,7 @@ export default {
             <h2>Popular Development Courses</h2>
 
             <div class="card-container">
-                <CourseCard />
+                <CourseCard :item="courses" />
             </div>
         </div>
     </section>
