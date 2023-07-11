@@ -132,7 +132,7 @@ courses:[
         price:'',
         time:'6 total Hours',
         teacher:'Omar Uddin',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     },
     {
@@ -147,7 +147,7 @@ courses:[
         price:'$129.99',
         time:'11 total Hours',
         teacher:'Brad Schiff',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'TMasterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...'
     },
     {
@@ -162,7 +162,7 @@ courses:[
         price:'$49.99',
         time:'6.5 total Hours',
         teacher:'John Boyer',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...'
     },
     {
@@ -177,7 +177,7 @@ courses:[
         price:'$34.90',
         time:'5 total Hours',
         teacher:'Matthew Fussell',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Among those features are gamification tools like points reward system, trial and group courses, assignments and lesson live streaming. You can lear...'
     },
     {
@@ -192,7 +192,7 @@ courses:[
         price:'$99.99',
         time:'6.5 total Hours',
         teacher:'Jason Taylor',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The WordPress plugin is a part of the Masterstudy WordPress theme for the education business. Upgrading to the theme is optional but does come with...'
     },
     {
@@ -207,7 +207,7 @@ courses:[
         price:'$69.99',
         time:'3 total Hours',
         teacher:'Heidi Willis',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Masterstudy LMS is a feature-rich WP product from StylemixThemes developed specifically for educational needs. Its main purpose is helping you to b...'
     },
     {
@@ -222,7 +222,7 @@ courses:[
         price:'',
         time:'30 total Hours',
         teacher:'Rob Percival',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The WordPress plugin is a part of the Masterstudy WordPress theme for the education business. Upgrading to the theme is optional but does come with...'
     },
     {
@@ -237,7 +237,7 @@ courses:[
         price:'$99.99',
         time:'60.5 total Hours',
         teacher:'Tim Buchalka',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The plugin is a full package of innovative features. The system includes a powerful admin panel and course builder, messaging system, advanced quiz...'
     },
     {
@@ -252,7 +252,7 @@ courses:[
         price:'$19.99',
         time:'3.5 total Hours',
         teacher:'Jill Poyerd',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Masterstudy LMS is a feature-rich WP product from StylemixThemes developed specifically for educational needs. Its main purpose is helping you to b...'
     },
     {
@@ -267,7 +267,7 @@ courses:[
         price:'$189.99',
         time:'7.5 total Hours',
         teacher:'Mosh Hamedani',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...'
     },
     {
@@ -282,7 +282,7 @@ courses:[
         price:'$189.99',
         time:'7.5 total Hours',
         teacher:'Mosh Hamedani',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Masterstudy learning management system will meet the challenge. To make sure, keep watching the lessons and we’ll show how to work with plugin fast...'
     },
     {
@@ -297,7 +297,7 @@ courses:[
         price:'$139.99',
         time:'5.5 total Hours',
         teacher:'Austin Batchelor',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The plugin is a full package of innovative features. The system includes a powerful admin panel and course builder, messaging system, advanced quiz...'
     },
     {
@@ -312,7 +312,7 @@ courses:[
         price:'$199.99',
         time:'36.5 total Hours',
         teacher:'Rob Percival',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     },
     {
@@ -327,7 +327,7 @@ courses:[
         price:'$19.99',
         time:'5 total Hours',
         teacher:'Jill Poyerd',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Whenever it comes to individual instructors, language or coaching centers, universities, and eLearning platforms'
     },
     {
@@ -342,7 +342,7 @@ courses:[
         price:'$199.99',
         time:'23 total Hours',
         teacher:'Academind by Maximilian Schwarzmüller',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
     }, 
     {
@@ -357,7 +357,7 @@ courses:[
         price:'$89.99',
         time:'1.5 total Hours',
         teacher:'Marcin Stasko',
-        teacheImage:'4387876_78bc.jpg',
+        teacherImage:'4387876_78bc.jpg',
         description:'Among those features are gamification tools like points reward system, trial and group courses, assignments and lesson live streaming. You can lear...'
     },
 
