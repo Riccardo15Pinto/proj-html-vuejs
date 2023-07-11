@@ -16,12 +16,14 @@ export default {
 </script>
 
 <template>
-    <TopJumbo />
-    <SectionInfo />
-    <DevelopmentCourses />
-    <SectionNewsletter />
-    <SectionContactUs />
-    <BottomJumbo />
+    <main>
+        <TopJumbo />
+        <SectionInfo />
+        <DevelopmentCourses />
+        <SectionNewsletter />
+        <SectionContactUs />
+        <BottomJumbo />
+    </main>
 </template>
 
 <style></style>
