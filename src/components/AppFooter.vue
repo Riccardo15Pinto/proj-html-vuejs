@@ -2,9 +2,11 @@
 import TopFooter from './sub-components/TopFooter.vue'
 import BottomFooter from './sub-components/BottomFooter.vue'
 export default {
-    component: { TopFooter, BottomFooter },
+    components: { TopFooter, BottomFooter },
     data() {
+        return {
 
+        }
     }
 }
 </script>
