@@ -1,8 +1,15 @@
 <script>
-import { store } from '../../data/data'
 export default {
     data() {
-        return store
+        return {
+
+        }
+    },
+    methods: {
+        getImageUrl(target) {
+            const url = new URL(`../../img/${target}`, import.meta.url);
+            return url.href
+        }
     }
 }
 
@@ -11,7 +18,9 @@ export default {
 <template>
     <section>
         <div class="container">
-
+            <figure>
+                <img :src="getImageUrl('footer-logo2x-50x56.png')" alt="">
+            </figure>
         </div>
     </section>
 </template>
