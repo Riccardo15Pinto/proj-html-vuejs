@@ -1,9 +1,10 @@
 <script>
+import { store } from '../../data/data'
+import CourseCard from './CourseCard.vue';
 export default {
+    components: { CourseCard },
     data() {
-        return {
-
-        }
+        return store
     },
 
     methods: {
@@ -22,7 +23,7 @@ export default {
             <h2>Popular Development Courses</h2>
 
             <div class="card-container">
-
+                <CourseCard />
             </div>
         </div>
     </section>
