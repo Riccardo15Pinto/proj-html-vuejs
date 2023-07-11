@@ -1,8 +1,9 @@
 <script>
 import { store } from './data/data'
-import Appheader from './components/AppHeader.vue'
+import AppHeader from './components/AppHeader.vue'
+import AppMain from './components/AppMain.vue'
 export default {
-    components: { Appheader },
+    components: { AppHeader, AppMain },
     data() {
         return store
     }
@@ -11,7 +12,8 @@ export default {
 </script>
 
 <template>
-    <Appheader />
+    <AppHeader />
+    <AppMain />
 </template>
 
 <style lang="scss">
