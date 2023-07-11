@@ -29,6 +29,7 @@ section {
     .container {
         width: $container;
         margin: 0 auto;
+        padding: 30px 0;
 
         h2 {
             color: $blue;
