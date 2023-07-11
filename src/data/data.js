@@ -397,6 +397,21 @@ categories:[
     {
         name:'Photography',
     },
+],
+
+contact:[
+    {
+        title:'Become an Instructor',
+        description:'Teach what you love. Masterstudy gives you the tools to create a course.',
+        imagePath:'image_box_1-221x231.png',
+        inizialize:'START TEACHING'
+    },
+    {
+        title:'Access For Business',
+        description:'Get unlimited access to 2,500 of top courses for your team.',
+        imagePath:'image_box_2-234x231.png',
+        inizialize:'DOING BUSINESS'
+    }
 ]
 
 })
