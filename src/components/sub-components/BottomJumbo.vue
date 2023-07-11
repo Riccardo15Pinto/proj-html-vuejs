@@ -4,12 +4,8 @@ export default {
     data() {
         return {
             store,
-            index: 0,
-        }
-    },
-    computed: {
-        currentIndex() {
-            return this.index
+            currentIndex: 0,
+            loop: null
         }
     },
     methods: {
@@ -19,15 +15,16 @@ export default {
         },
 
         getImageSlider() {
-            this.index++
-            if (this.index === store.activities.length) return this.index = 0
-            else if (!this.index) return this.index++
-            setInterval(this.getImageSlider, 5000)
+            if (this.currentIndex === store.activities.length - 1) {
+                this.currentIndex = 0;
+            } else {
+                this.currentIndex++;
+            }
         }
 
     },
     mounted() {
-        // this.getImageSlider()
+        this.loop = setInterval(this.getImageSlider, 5000);
     }
 }
 </script>
