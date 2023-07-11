@@ -11,8 +11,8 @@ export default {
     },
     computed: {
         developmentCourses() {
-            const filter = store.courses.filter(element => element.category === 'Development');
-            return this.developments = filter
+            const filtered = store.courses.filter(element => element.category === 'Development');
+            return filtered
         }
     }
 }
