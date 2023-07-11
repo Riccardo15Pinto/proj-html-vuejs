@@ -4,8 +4,17 @@ import CourseCard from './CourseCard.vue';
 export default {
     components: { CourseCard },
     data() {
-        return store
+        return {
+            store,
+            developments: [],
+        }
     },
+    computed: {
+        developmentCourses() {
+            const filter = store.courses.filter(element => element.category === 'Development');
+            return this.developments = filter
+        }
+    }
 }
 </script>
 
@@ -16,7 +25,7 @@ export default {
             <h2>Popular Development Courses</h2>
 
             <div class="card-container">
-                <CourseCard :item="courses[0]" />
+                <CourseCard v-for="n in developmentCourses" :item="n" :key="n.id" />
             </div>
         </div>
     </section>
@@ -34,6 +43,17 @@ section {
         h2 {
             color: $blue;
             margin-bottom: 40px;
+            margin-left: 10px;
+        }
+
+        .card-container {
+            display: flex;
+            align-items: center;
+
+            .card {
+                margin: 0 10px;
+                flex-basis: calc(100% / 6 - 20px);
+            }
         }
     }
 }
