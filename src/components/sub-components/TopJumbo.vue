@@ -62,6 +62,7 @@ section {
         align-items: center;
         position: relative;
         height: 400px;
+        object-fit: fill;
 
         .jumbo-text {
             background-color: $red;
