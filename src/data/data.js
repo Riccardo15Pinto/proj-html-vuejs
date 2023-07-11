@@ -348,17 +348,17 @@ courses:[
     {
         id:'16',
         popular:true,
-        imagePathM:'1561458_7f3b-272x161.jpg',
-        imagePathL:'1561458_7f3b-544x322.jpg',
-        title:'CSS - The Complete Guide 2020 (incl. Flexbox,Grid % Sass)',
-        category:'Design',
+        imagePathM:'1109398_4c13-272x161.jpg',
+        imagePathL:'1109398_4c13-544x322.jpg',
+        title:'Paint Realistic Watercolour and botanicals Magnolias',
+        category:'Arts & Crafts',
         average:'5',
-        actualPrice:'$100.00',
-        price:'$199.99',
-        time:'23 total hours',
-        teacher:'Academind by Maximilian Schwarzmüller',
+        actualPrice:'$35.00',
+        price:'$$69.99',
+        time:'7 total hours',
+        teacher:'Heidi Willis',
         teacherImage:'4387876_78bc.jpg',
-        description:'The Masterstudy LMS is a free plugin but there is a paid PRO version as well. PRO version has everything from the free plugin plus a bunch of premi...'
+        description:'Masterstudy LMS plugin was designed for everyone. It literally covers every need in the niche of the education business.'
     },
 
 
