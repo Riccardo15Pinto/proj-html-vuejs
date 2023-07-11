@@ -106,6 +106,7 @@ export default {
                     padding: 10px;
                     top: 20px;
                     display: none;
+                    z-index: 2;
 
                     li {
                         list-style: none;
@@ -131,11 +132,6 @@ export default {
         .input-container {
             width: 300px;
             height: 35px;
-
-            a {
-                text-decoration: none;
-                color: $darkgrey;
-            }
 
             input {
                 height: 100%;
