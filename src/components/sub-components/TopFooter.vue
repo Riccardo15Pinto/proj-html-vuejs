@@ -3,6 +3,12 @@ import { store } from '../../data/data'
 export default {
     data() {
         return store
+    },
+    methods: {
+        getImageUrl(target) {
+            const url = new URL(`../../img/${target}`, import.meta.url);
+            return url.href
+        }
     }
 }
 
