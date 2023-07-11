@@ -71,12 +71,10 @@ export default {
             button {
                 margin: 20px 0;
                 padding: 20px 40px;
-                background-color: $red;
                 border-radius: 30px;
                 color: white;
                 font-weight: bolder;
                 border: none;
-                transition: color ease-in-out 3s;
                 background: linear-gradient(to right, $green 50%, $red 50%);
                 background-size: 200% 100%;
                 background-position: right bottom;
