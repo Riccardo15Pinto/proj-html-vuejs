@@ -10,7 +10,6 @@ export default {
     },
     computed: {
         currentAverage() {
-            console.log(this.item.average)
             return parseInt(this.item.average);
         }
     },
