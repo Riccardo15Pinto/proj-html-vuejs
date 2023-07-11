@@ -18,8 +18,8 @@ export default {
 <template>
     <main>
         <TopJumbo />
-        <SectionInfo />
         <DevelopmentCourses />
+        <SectionInfo />
         <SectionNewsletter />
         <SectionContactUs />
         <BottomJumbo />
