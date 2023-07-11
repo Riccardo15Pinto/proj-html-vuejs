@@ -16,7 +16,7 @@ export default {
             <h2>Popular Development Courses</h2>
 
             <div class="card-container">
-                <CourseCard :item="courses[0]" :average="courses[0].average" />
+                <CourseCard :item="courses[0]" />
             </div>
         </div>
     </section>
@@ -33,6 +33,7 @@ section {
 
         h2 {
             color: $blue;
+            margin-bottom: 40px;
         }
     }
 }
