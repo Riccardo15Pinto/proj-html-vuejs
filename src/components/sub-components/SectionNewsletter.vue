@@ -45,7 +45,11 @@ section {
         color: $white;
 
         .newsletter-text {
-            width: 590px;
+            width: 700px;
+
+            h2 {
+                margin-bottom: 20px;
+            }
         }
 
 
