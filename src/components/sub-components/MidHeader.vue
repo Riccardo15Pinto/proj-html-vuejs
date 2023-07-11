@@ -112,9 +112,10 @@ export default {
                         list-style: none;
                         padding: 10px 0;
 
-                        &:hover {
-                            color: $white;
-                        }
+                    }
+
+                    &:hover {
+                        color: $white;
                     }
 
                 }
