@@ -137,7 +137,7 @@ section {
                 margin: 11px;
 
                 a {
-                    font-size: 2.5rem;
+                    font-size: 2rem;
                     color: $white;
                 }
 
