@@ -168,13 +168,11 @@ export default {
 
     .sing {
         padding: 20px 40px;
-        background-color: $red;
         border-radius: 30px;
         color: white;
         font-weight: bolder;
         border: none;
         margin: 0 20px;
-        transition: color ease-in-out 3s;
         background: linear-gradient(to right, $blue 50%, $red 50%);
         background-size: 200% 100%;
         background-position: right bottom;
